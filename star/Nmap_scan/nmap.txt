@@ -1,0 +1,7 @@
+# Nmap 7.80 scan initiated Wed May 11 13:13:58 2022 as: nmap -sV -oX ./--version-all --script vuln -oN nmap.txt 192.168.56.105
+Nmap scan report for 192.168.56.105
+Host is up (0.0014s latency).
+All 1000 scanned ports on 192.168.56.105 are filtered
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed May 11 13:14:20 2022 -- 1 IP address (1 host up) scanned in 22.02 seconds
